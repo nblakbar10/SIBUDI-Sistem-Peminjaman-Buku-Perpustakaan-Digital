@@ -16,3 +16,5 @@ Adapun fitur yang saya sematkan pada aplikasi ini yaitu :
   - Time Sleep
   
   Berikut Diagramm Flowchart SIBUDI :
+
+![alt text](https://raw.githubusercontent.com/nblakbar10/SIBUDI-Sistem-Peminjaman-Buku-Perpustakaan-Digital/master/flowchart.JPG)
